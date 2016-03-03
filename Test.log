@@ -1,0 +1,59 @@
+============================================================
+Deployment   : Test
+Current time : 6/3/2014 9:33:04 AM
+Start at     : 6/3/2014 9:32:38 AM
+Comment:
+
+------------------------------------------------------------
+Sampling rate        (Hz) : 32
+Nominal vel. range  (m/s) : 2.00
+Burst interval        (s) : CONTINUOUS
+Samples per burst         : N/A
+Sampling volume      (mm) : 8.6
+Transmit length      (mm) : 4.0
+Measurement load      (%) : 36
+Power level               : HIGH
+Output sync               : VECTOR
+Start on sync             : DISABLED
+Sample on sync            : DISABLED
+INS Sensor                : ENABLED
+INS Data type             : AHRSCC
+Compass upd. rate     (s) : 1
+Coordinate System         : XYZ
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 30
+Analog output             : DISABLED
+Analog output range       : N/A
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+TellTale                  : OFF
+Acoustic modem            : OFF
+Serial output             : OFF
+Baud rate                 : 57600
+------------------------------------------------------------
+Assumed duration   (days) : 3.0
+Battery utilization   (%) : 94.0
+Battery level         (V) : 14.9
+Recorder size        (MB) : 15478
+Recorder free space  (MB) : 15477.972
+Memory required      (MB) : 877.0
+Vertical vel. range (m/s) : 1.0
+Horizon. vel. range (m/s) : 3.5
+------------------------------------------------------------
+Instrument ID             : VEC11076
+Head ID                   : VEC 5024
+Firmware version          : 3.38
+ProLog ID                 : 545
+ProLog firmware version   : 4.18
+------------------------------------------------------------
+SD Card Inserted          : YES
+SD Card Ready             : YES
+SD Card Write protected   : NO
+SD Card Type              : SDHC
+SD Card Supported         : YES
+------------------------------------------------------------
+Vector Version 1.37.02
+Copyright (C) Nortek AS
+============================================================
